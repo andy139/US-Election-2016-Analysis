@@ -4,12 +4,12 @@
 - Andy Tran
 - Lilian Li
 
-### Predictive Algorithms
-- **Random Forest**
+### Methodology
 - **Support Vector Machines**
 - **Hierarchel Clustering**
 - **Principle Component Analysis**
 - **Decision Trees**
+- **Random Forest**
 - **Lasso Regression**
 - **Quadratic Discriminant Analysis**
 
