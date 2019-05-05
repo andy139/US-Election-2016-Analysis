@@ -1,6 +1,6 @@
 # US-Election-Analysis-2016
 
-##### Contributers:
+##### Contributors:
 - Andy Tran
 - Lilian Li
 
