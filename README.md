@@ -1,10 +1,12 @@
 # US-Election-Analysis-2016
 
-##### Contributors:
+This project was created for our Machine Learning class. We explored different supervised and unsupervised machine learning methods to determine the outcome of the 2016 Presidential Election.
+
+## Contributors:
 - Andy Tran
 - Lilian Li
 
-### Methodology
+## Methodology
 - **Support Vector Machines**
 - **Lasso Regression**
 - **Decision Trees**
