@@ -1,6 +1,6 @@
 # US-Election-Analysis-2016
 
-This project was created for our Machine Learning class. We used different supervised and unsupervised machine learning methods to determine the outcome of the 2016 Presidential Election.
+This project was created for our Machine Learning class. We used different supervised and unsupervised machine learning methods to determine the outcome and to analyze the 2016 Presidential Election.
 
 ## Contributors:
 - Andy Tran
