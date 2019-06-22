@@ -21,4 +21,4 @@ This project was created for our Machine Learning class. We used different super
 - **Quadratic Discriminant Analysis**
 
 
-To see full report check out: [https://raw.githack.com/andy139/US-Election-2016-Analysis/master/election_analysis_2016.html](2016 Presidential Election Analysis)
+To see full report check out: [https://raw.githack.com/andy139/US-Election-2016-Analysis/master/election_analysis_2016.html] (2016 Presidential Election Analysis)
