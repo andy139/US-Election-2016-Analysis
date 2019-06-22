@@ -5,7 +5,7 @@
 ![2016 Electiogeddon U.S. Map](https://i.gyazo.com/3daeb2ac54af052e745378a58f20f7e7.png)
 
 
-This project was created for our Machine Learning class. We used different supervised and unsupervised machine learning methods to determine the outcome and to analyze the 2016 Presidential Election while using different data visualizations techniques to paint a better picture of the election within counties.
+This project was created for our Machine Learning class. We used different supervised and unsupervised machine learning methods to determine the outcome and to analyze the 2016 Presidential Election while using different data visualizations techniques to paint a bigger picture of the election within counties.
 
 ## Contributors:
 - Andy Tran
@@ -21,5 +21,4 @@ This project was created for our Machine Learning class. We used different super
 - **Quadratic Discriminant Analysis**
 
 
-## Conclusion
-Random forest performed the best out of all our classifiers. The model had a 95% accuracy rate when tested on our test set. For comparison our next best classifier was the decision tree classifier which had a 93% accuracy rate. However, our QDA classifier did the worst among all models. All in all, with our best predictive model we were able to classify 95% the states correctly.
+To see full report check out: [https://raw.githack.com/andy139/US-Election-2016-Analysis/master/election_analysis_2016.html](2016 Presidential Election Analysis)
