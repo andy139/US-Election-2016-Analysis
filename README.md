@@ -7,6 +7,8 @@
 
 This project was created for our Machine Learning class. We used different supervised and unsupervised machine learning methods to determine the outcome and to analyze the 2016 Presidential Election while using different data visualizations techniques to paint a better picture of the election within counties.
 
+The data contains features such as us census data and voting results from the 2016 election data.
+
 ## Contributors:
 - Andy Tran
 - Lilian Li
